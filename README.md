@@ -428,11 +428,6 @@ The infrastructure operates on free tiers (Vercel Hobby and Render Free tier). U
 
 ---
 
-## Challenges and Learnings
-
-- **Biggest Technical Challenge**: —
-- **Solution & Implementation**: —
-- **Engineering Learnings**: —
 
 ### Operational Trade-off: Free-Tier Cold Starts
 A known operational trade-off of the Render free-tier environment is container idling. After periods of inactivity, the admin service spins down, resulting in a cold start latency when an administrator initially accesses the moderation dashboard. Because moderation is an asynchronous internal task rather than a user-blocking flow, this latency was accepted to keep running costs at zero while maintaining full database-backed session security.
@@ -451,8 +446,6 @@ A known operational trade-off of the Render free-tier environment is container i
 - [x] Google OAuth 2.0 authentication for administrators
 - [x] PostgreSQL session and token store with 60-minute automated expiry
 - [x] Public Map Data API deployment on Vercel
-- [ ] —
-- [ ] —
 
 ---
 
