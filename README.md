@@ -424,9 +424,7 @@ The infrastructure operates on free tiers (Vercel Hobby and Render Free tier). U
 | Metric | Target / Observed |
 | :--- | :--- |
 | **Admin Session Validity** | 60 minutes |
-| **Page Load Time** | — |
-| **Active Users** | — |
-| **Service Uptime** | — |
+
 
 ---
 
@@ -470,9 +468,8 @@ A known operational trade-off of the Render free-tier environment is container i
 
 | Contact Channel | Dipesh Karalkar | Soham Pawar |
 | :--- | :--- | :--- |
-| **LinkedIn** | — | — |
-| **Portfolio** | — | — |
-| **Email** | — | — |
+| **LinkedIn** | https://www.linkedin.com/in/dipesh-karalkar-2552b5341/ | https://www.linkedin.com/in/soham-pawar-99717b346/ |
+| **Email** | atharvkaralkar07@gmail.com | sohampawar261933@gmail.com |
 
 ---
 
