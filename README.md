@@ -78,10 +78,6 @@ Mission City Chakra Map is an interactive, crowdsourced web application created 
 ![Search Filters](assets/search-filters.png)
 *Figure 3: Interactive filtering interface enabling location discovery by category and keyword search.*
 
-####  Ratings
-![Ratings](assets/ratings.png)
-*Figure 4: Community rating display allowing users to evaluate and recognize sustainable establishments.*
-
 ####  Admin Moderation Workflow
 ![Admin Moderation Workflow](assets/admin-moderation-workflow.png)
 *Figure 5: Protected administrative dashboard with Google OAuth 2.0 authentication and review actions.*
