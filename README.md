@@ -33,7 +33,7 @@
 
 <br/>
 
-> **Notice**: Source code is private. Architecture and design are documented below.
+ **Notice**: Source code is private. Architecture and design are documented below.
 
 </div>
 
@@ -466,17 +466,3 @@ A known operational trade-off of the Render free-tier environment is container i
 
 ---
 
-##  Missing Info to Complete This README
-
-The following items were provided as dashes (`—`) and require population when details become available:
-
-1. **Live Site URL**: Direct link to the public production website.
-2. **Project Duration**: Specific build duration / calendar months in 2026.
-3. **Frontend Map Library**: Library used for map rendering (e.g., Leaflet.js, Mapbox GL JS, Google Maps API, or OpenLayers).
-4. **CI/CD / DevOps**: Build scripts, continuous integration tools, or automated deployment triggers.
-5. **Monitoring & Analytics**: Telemetry or visitor tracking tools (e.g., Google Analytics, Vercel Analytics, UptimeRobot).
-6. **Other Developer Tools**: Linter, formatter, or package managers utilized.
-7. **Biggest Technical Challenge**: Specific architectural challenge, implementation solution, and takeaway.
-8. **Performance Metrics**: Concrete benchmarks for page load time, monthly active contributors, and uptime.
-9. **Future Roadmap Items**: Specific upcoming milestones or planned roadmap features.
-10. **Contact Links**: LinkedIn profiles, portfolio URLs, and direct contact email addresses for both Dipesh Karalkar and Soham Pawar.
