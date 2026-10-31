@@ -47,7 +47,6 @@ Mission City Chakra Map is an interactive, crowdsourced web application created 
 | :--- | :--- |
 | **Type** | Web Application (Public Interactive Map & Moderation Console) |
 | **Status** | Live |
-
 | **Duration** | 2025 / 2026 |
 | **Stack Summary** | HTML5, CSS3, JavaScript, Node.js, Express.js, PostgreSQL, Google Workspace, Vercel, Render |
 
