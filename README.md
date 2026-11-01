@@ -447,7 +447,7 @@ A known operational trade-off of the Render free-tier environment is container i
 ##  Access and Contact
 
 ### Code Access
-> **Code Access Policy**: The source code for Mission City Chakra Map is maintained in a private repository to protect administrative workflow logic and backend infrastructure configurations. Full code walkthroughs or temporary repository access can be provided upon request for technical interviews, recruiters, and engineering reviews.
+> **Code Access Policy**: The source code for Mission City Chakra Map is maintained in a private repository to protect administrative workflow logic and backend infrastructure configurations.
 
 ### Engineering Team
 
