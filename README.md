@@ -451,8 +451,8 @@ A known operational trade-off of the Render free-tier environment is container i
 
 ### Engineering Team
 
-[![Dipesh Karalkar](https://img.shields.io/badge/Dipesh_Karalkar-Developer-059669?style=for-the-badge&logo=github&logoColor=white)](—)
-[![Soham Pawar](https://img.shields.io/badge/Soham_Pawar-Developer-10B981?style=for-the-badge&logo=github&logoColor=white)](—)
+[![Dipesh Karalkar](https://img.shields.io/badge/Dipesh_Karalkar-Developer-059669?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dipesh-karalkar21)
+[![Soham Pawar](https://img.shields.io/badge/Soham_Pawar-Developer-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cwleonard1w45)
 
 | Contact Channel | Dipesh Karalkar | Soham Pawar |
 | :--- | :--- | :--- |
